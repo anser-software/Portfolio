@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1276901254, guid: 9ee5ec11491844573a4a3aa5de65abdd, type: 3}
+  m_Name: ReplaySettings
+  m_EditorClassIdentifier: 
+  targetFps: 60
+  videoSets:
+  - systemLanguages: 0a000000
+    resolutions:
+    - width: 1080
+      height: 1350
+      scalingStrategy: 2
+      scaleOptions:
+        anchors:
+          anchors: 01010101
+        leftPosition:
+          offset: 0
+          manualOffset: 0
+        topPosition:
+          offset: 0
+          manualOffset: 0
+        rightPosition:
+          offset: 0
+          manualOffset: 0
+        bottomPosition:
+          offset: 0
+          manualOffset: 0
+        advancedOffsetOptions: 0
+      separateOptionsForUIInput: 0
+      uiScaleOptions:
+        anchors:
+          anchors: 01010101
+        leftPosition:
+          offset: 0
+          manualOffset: 0
+        topPosition:
+          offset: 0
+          manualOffset: 0
+        rightPosition:
+          offset: 0
+          manualOffset: 0
+        bottomPosition:
+          offset: 0
+          manualOffset: 0
+        advancedOffsetOptions: 0
+      aspectRatioHandling: 0
+      videoBitrate: 0
+      audioBitrate: 0
+    fieldSets:
+    - ownerTypeName: BlockManager
+      isSerializationCallbackImplemented: 1
+      fieldName: blockType
+      playgroundValue:
+        longValue: 2
+        boolValue: 0
+        doubleValue: 0
+        stringValue: 
+        colorValue: {r: 0, g: 0, b: 0, a: 1}
+        vector2Value: {x: 0, y: 0}
+        vector3Value: {x: 0, y: 0, z: 0}
+        vector4Value: {x: 0, y: 0, z: 0, w: 0}
+        longsValue: 
+        boolsValue: 
+        doublesValue: []
+        stringsValue: []
+        colorsValue: []
+        vector2sValue: []
+        vector3sValue: []
+        vector4sValue: []
+  inputAxes:
+  - name: Horizontal
+    value: 0
+    negativeButton: left
+    positiveButton: right
+    altNegativeButton: a
+    altPositiveButton: d
+  - name: Vertical
+    value: 0
+    negativeButton: down
+    positiveButton: up
+    altNegativeButton: s
+    altPositiveButton: w
+  - name: Fire1
+    value: 0
+    negativeButton: 
+    positiveButton: left ctrl
+    altNegativeButton: 
+    altPositiveButton: mouse 0
+  - name: Fire2
+    value: 0
+    negativeButton: 
+    positiveButton: left alt
+    altNegativeButton: 
+    altPositiveButton: mouse 1
+  - name: Fire3
+    value: 0
+    negativeButton: 
+    positiveButton: left shift
+    altNegativeButton: 
+    altPositiveButton: mouse 2
+  - name: Jump
+    value: 0
+    negativeButton: 
+    positiveButton: space
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Mouse X
+    value: 0
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Mouse Y
+    value: 0
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Mouse ScrollWheel
+    value: 0
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Horizontal
+    value: 0
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Vertical
+    value: 0
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Fire1
+    value: 0
+    negativeButton: 
+    positiveButton: joystick button 0
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Fire2
+    value: 0
+    negativeButton: 
+    positiveButton: joystick button 1
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Fire3
+    value: 0
+    negativeButton: 
+    positiveButton: joystick button 2
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Jump
+    value: 0
+    negativeButton: 
+    positiveButton: joystick button 3
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Submit
+    value: 0
+    negativeButton: 
+    positiveButton: return
+    altNegativeButton: 
+    altPositiveButton: joystick button 0
+  - name: Submit
+    value: 0
+    negativeButton: 
+    positiveButton: enter
+    altNegativeButton: 
+    altPositiveButton: space
+  - name: Cancel
+    value: 0
+    negativeButton: 
+    positiveButton: escape
+    altNegativeButton: 
+    altPositiveButton: joystick button 1
+  videoCodec: 0
+  removeScreenshotsAlpha: 0
+  version: 2.9.2
+  previousVersion: 
+  captureImmediately: 0
+  capturePhysics: 0
+  setCaptureDefaultName: 0
+  captureDefaultNamePrefix: 
+  stabilizeCaptureFramerate: 1
+  debugRandomsOnCapture: 0
+  debugRandomsOnReplay: 0
+  debugPlayerPrefsOnCapture: 0
+  debugPlayerPrefsOnReplay: 0
+  startCaptureHotKey: 114
+  stopCaptureHotKey: 115
+  lockFocus: 0
+  replayTraceData:
+    guid: 5e02d37c-1f3a-4eca-9b51-4cd3dd900965
+  replayTraceUrl: https://assets.lunalabs.io/uploads/replays/replay/b5aa747848db2042c646bf59fac97395/1007664/trace.json
+  replayName: big4_end
+  videoPath: LunaTemp
+  replayId: 1007664
+  captureMode: 0
+  serverEnvironment: 2
+  hasVideoInEditor: 1

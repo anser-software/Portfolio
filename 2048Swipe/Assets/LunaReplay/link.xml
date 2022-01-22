@@ -1,0 +1,8 @@
+<linker>
+    <assembly fullname="UnityEngine.CoreModule">
+        <type fullname="UnityEngine.Experimental.LowLevel.PlayerLoop" preserve="all"/>
+        <type fullname="UnityEngine.Experimental.LowLevel.PlayerLoopSystem" preserve="all"/>
+        <type fullname="UnityEngine.LowLevel.PlayerLoop" preserve="all"/>
+        <type fullname="UnityEngine.LowLevel.PlayerLoopSystem" preserve="all"/>
+    </assembly>
+</linker>
