@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 58c6fb87edbc1a84bb27b4ba456f7926
+labels:
+- Cave
+- Generation
+- Map
+- Procedural
+timeCreated: 1485014756
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

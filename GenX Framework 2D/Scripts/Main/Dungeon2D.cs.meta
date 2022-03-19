@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b79ab806bed92ac479700e5dd5dc88c3
+labels:
+- Dungeon
+- Generation
+- Procedural
+timeCreated: 1487335387
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

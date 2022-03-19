@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b98d8dfbc1bd69848abdc2dda0ff50f3
+labels:
+- Generation
+- Manager
+- Map
+- Procedural
+timeCreated: 1485593900
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
